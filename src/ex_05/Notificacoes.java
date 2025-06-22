@@ -1,4 +1,6 @@
-public class ex_05 {
+package ex_05;
+
+public class Notificacoes {
     public static void main(String[] args) {
         int notificacoes = 0;
         for(int i = 1; i <= 5; i++){

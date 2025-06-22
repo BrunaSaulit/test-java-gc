@@ -1,4 +1,6 @@
-public class ex_07 {
+package ex_07;
+
+public class Livro {
     String titulo;
     boolean emprestado;
 

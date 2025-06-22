@@ -1,4 +1,6 @@
-public class ex_04 {
+package ex_04;
+
+public class ControleFluxoEOperadores {
     public static void main(String[] args) {
         int prioridade = 4;
         int urgencia = 8;

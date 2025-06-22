@@ -1,6 +1,8 @@
+package ex_06;
+
 import java.util.ArrayList;
 
-public class ex_06 {
+public class Horarios {
     public static void main(String[] args) {
         ArrayList<String>horarios = new ArrayList<>();
         horarios.add("08:00");

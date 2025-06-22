@@ -1,6 +1,8 @@
+package ex_07;
+
 public class Main {
     public static void main(String[] args) {
-        ex_07 l = new ex_07();
+        Livro l = new Livro();
         l.titulo = "Java para iniciantes";
         System.out.println(l.status());
         l.emprestar();

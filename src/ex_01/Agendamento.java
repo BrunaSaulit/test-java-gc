@@ -1,6 +1,8 @@
+package ex_01;
+
 import java.time.LocalDate;
 
-public class ex_01 {
+public class Agendamento {
         public static void main(String[]args){
             LocalDate base = LocalDate.of(2025,6,1);
             int dias = 7;

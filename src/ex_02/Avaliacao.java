@@ -1,4 +1,6 @@
-public class ex_02 {
+package ex_02;
+
+public class Avaliacao {
     public static void main(String[] args) {
         int nota = 7;
         int peso = 2;

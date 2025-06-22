@@ -1,7 +1,9 @@
+package ex_12;
+
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 
-public class ex_12 {
+public class DataComLocalDate {
     public static void main(String[] args) {
         LocalDate data = LocalDate.of(2025,6,10);
         int diasUteis = 0;
